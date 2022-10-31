@@ -1,2 +1,2 @@
 var yourName = prompt("enter your name!");
-alert(yourName);
+alert('hlw '+yourName+' !');
